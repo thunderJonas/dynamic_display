@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "image": "./imgArtwork/img_1.png",
+    "kategorie": "Farbfeldmalerei",
+    "material": "Öl auf Leinwand",
+    "title": "Orion 3\"",
+    "groesse": "cm 220x220",
+    "dateOfBirth": "Mai 1993",
+    "preis": "12.000 €",
+    "verfügbar": 0,
+    "exemplare": 3,
+    "besonderheiten": "Antike Berahmung",
+    "schicksal": "Es war einst eine fische jedoch klare Sommernacht, mood von guten vergangenen tagen und ich blicke neben einem baum liegend in die Strene. Das ist er doch, oder?! der Orion Gürtel. Und genau das dort ist Orion 3"
+  },
+  {
+    "id": 2,
+    "image": "./imgArtwork/img_2.png",
+    "kategorie": "Farbfeldmalerei",
+    "material": "Öl auf Leinwand",
+    "title": "Wagabundt\"",
+    "groesse": "cm 220x220",
+    "dateOfBirth": "Juni 1993",
+    "preis": "12.000 €",
+    "verfügbar": 1,
+    "exemplare": 1,
+    "besonderheiten": "Antike Berahmung",
+    "schicksal": "Es war einst eine fische jedoch klare Sommernacht, mood von guten vergangenen tagen und ich blicke neben einem baum liegend in die Strene. Das ist er doch, oder?! der Orion Gürtel. Und genau das dort ist Orion 3"
+  },
+  {
+    "id": 3,
+    "image": "./imgArtwork/img_3.png",
+    "kategorie": "Farbfeldmalerei",
+    "material": "Öl auf Leinwand",
+    "title": "Durch die Milch\"",
+    "groesse": "cm 220x220",
+    "dateOfBirth": "Mai 1993",
+    "preis": "12.000 €",
+    "verfügbar": 1,
+    "exemplare": 3,
+    "besonderheiten": "Antike Berahmung",
+    "schicksal": "Es war einst eine fische jedoch klare Sommernacht, mood von guten vergangenen tagen und ich blicke neben einem baum liegend in die Strene. Das ist er doch, oder?! der Orion Gürtel. Und genau das dort ist Orion 3"
+  },
+  {
+    "id": 4,
+    "image": "./imgArtwork/img_4.png",
+    "kategorie": "Farbfeldmalerei",
+    "material": "Öl auf Leinwand",
+    "title": "Pulsaris\"",
+    "groesse": "cm 220x220",
+    "dateOfBirth": "Mai 1993",
+    "preis": "12.000 €",
+    "verfügbar": 2,
+    "exemplare": 3,
+    "besonderheiten": "Antike Berahmung",
+    "schicksal": "Es war einst eine fische jedoch klare Sommernacht, mood von guten vergangenen tagen und ich blicke neben einem baum liegend in die Strene. Das ist er doch, oder?! der Orion Gürtel. Und genau das dort ist Orion 3"
+  },
+  {
+    "id": 5,
+    "image": "./imgArtwork/img_5.png",
+    "kategorie": "Farbfeldmalerei",
+    "material": "Öl auf Leinwand",
+    "title": "Orion 993\"",
+    "groesse": "cm 220x220",
+    "dateOfBirth": "Mai 1993",
+    "preis": "12.000 €",
+    "verfügbar": 3,
+    "exemplare": 3,
+    "besonderheiten": "Antike Berahmung",
+    "schicksal": "Es war einst eine fische jedoch klare Sommernacht, mood von guten vergangenen tagen und ich blicke neben einem baum liegend in die Strene. Das ist er doch, oder?! der Orion Gürtel. Und genau das dort ist Orion 3"
+  }
+]
